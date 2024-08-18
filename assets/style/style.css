@@ -1,0 +1,23 @@
+.card-body {
+    text-align: center;
+}
+
+.navbar {
+    background-color: rgb(25, 25, 100);
+}
+
+.btn-color {
+    background-color: rgb(25, 25, 100);
+    color: white; 
+}
+
+.btn-color:hover {
+    background-color: rgb(152, 152, 209);
+    color: #ffffff; 
+}
+
+h3{
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+
